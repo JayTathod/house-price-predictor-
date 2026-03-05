@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Load the model you saved
-model = joblib.load('house_model.pkl')
+model = joblib.load('house_model2.pkl')
 
 st.title("House Price Prediction App")
 
